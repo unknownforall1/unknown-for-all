@@ -49,13 +49,13 @@ if __name__ == '__main__':
 
 <!-- <h1> <img src = "https://github.com/unknownforall1/unknownforall1/blob/main/resources/snake.gif" width = "70px"> Snake eating my contribution graph </h1>
 
-[![snake gif](https://github.com/unknownforall1/unknownforall1/blob/vin-output/Harpia-Vieillot.svg)](https://github.com/Harpia-Vieillot)
+[![snake gif](https://github.com/unknownforall1/unknownforall1/blob/vivek-output/unknownforall1.svg)](https://github.com/unknownforall1)
 
-[<img src="https://github.com/unknownforall1/Unknownforall1/blob/main/resources/hr.gif"/>](https://github.com/Harpia-Vieillot)
+[<img src="https://github.com/unknownforall1/Unknownforall1/blob/main/resources/hr.gif"/>](https://github.com/unknownforall1)
  -->
-<h1> <img src="https://github.com/VintellX/VintellX/blob/main/resources/connect.gif" width="70px" style="border-radius: 50%"> Connect with me </h1>
+<h1> <img src="https://github.com/unknownforall1/unknownforall1/blob/main/resources/connect.gif" width="70px" style="border-radius: 50%"> Connect with me </h1>
 
- [<img src="https://github.com/VintellX/VintellX/blob/main/resources/telegram_icon.png" width="75px">](https://t.me/don_owner) [<img src="https://github.com/VintellX/VintellX/blob/main/resources/github_icon.png" width="75px">](https://github.com/unknownforall1) [<img src="https://github.com/VintellX/VintellX/blob/main/resources/discord_logo.png" width="75px">](https://discordapp.com/setting) [<img src="https://github.com/VintellX/VintellX/blob/main/resources/youtube_icon.png" width="75px">](https://www.youtube.com/@d3viltech404)
+ [<img src="https://github.com/unknownforall1/unknownforall1/blob/main/resources/telegram_icon.png" width="75px">](https://t.me/don_owner) [<img src="https://github.com/Unknownforall1/unknownforall1/blob/main/resources/github_icon.png" width="75px">](https://github.com/unknownforall1) [<img src="https://github.com/unknownforall1/unknownforall1/blob/main/resources/discord_logo.png" width="75px">](https://discordapp.com/setting) [<img src="https://github.com/unknownforall1/unknownforall1/blob/main/resources/youtube_icon.png" width="75px">](https://www.youtube.com/@d3viltech404)
 <!-- 
 [<img src="https://github.com/Unknownforall1/Unknownforall1/blob/main/resources/hr.gif"/>](https://github.com/Unknownforall1)
 
