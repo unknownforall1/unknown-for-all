@@ -1,23 +1,23 @@
 
 <h1> <img src="https://github.com/VintellX/VintellX/blob/main/resources/codes.webp" width="70px"> Hey there, Vinayak Pandey this side! </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%231AF73D&size=27&width=500&lines=Hey!+It's+Vinayak+Pandey!;I'm+a+learning+developer...;I+love+to+code%2C+work+on+cool+projects;and+take+on+challenges...;Thanks+for+visiting+%E2%9D%A4%EF%B8%8F)](https://github.com/Harpia-Vieillot)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%231AF73D&size=27&width=500&lines=Hey!+It's+Vivek+Raj+Roy!;I'm+a+learning+developer...;I+love+to+code%2C+work+on+cool+projects;and+take+on+challenges...;Thanks+for+visiting+%E2%9D%A4%EF%B8%8F)](https://github.com/Unknownforall1)
 
 <!-- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/VinayakPandey)
  -->
-[<img src="https://github.com/VintellX/VintellX/blob/main/resources/hr.gif"/>](https://github.com/Harpia-Vieillot)
+[<img src="https://github.com/VintellX/VintellX/blob/main/resources/hr.gif"/>](https://github.com/Unknownforall1)
 
 <h1> <img src="https://github.com/VintellX/VintellX/blob/main/resources/dragon.webp" width="70px"> About Me </h1>
 
 ```python3
 class Vinayak():
     def __init__(self):
-        self.name = ['विनायक पांडेय', 'Vinayak Pandey']
+        self.name = [' विवेक राज रॉय ', 'ViveK RaJ RoY']
         self.country = ['भारत', 'India']
         self.language = ['हिंदी', 'English']
     def programming_languages(self):
         return [
-            'Python', 'Java', 'C++', 'JavaScript', 'SQL'
+            'Python' 'Html'
         ]
     def markup_languages(self):
         return [
@@ -42,10 +42,10 @@ class Vinayak():
         ]
 
 if __name__ == '__main__':
-    me = Vinayak()
+    me = Vivek()
  ```
 
-[<img src="https://github.com/VintellX/VintellX/blob/main/resources/hr.gif"/>](https://github.com/Harpia-Vieillot)
+[<img src="https://github.com/VintellX/VintellX/blob/main/resources/hr.gif"/>](https://github.com/unknownforall1)
 
 <!-- <h1> <img src = "https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/snake.gif" width = "70px"> Snake eating my contribution graph </h1>
 
@@ -55,7 +55,7 @@ if __name__ == '__main__':
  -->
 <h1> <img src="https://github.com/VintellX/VintellX/blob/main/resources/connect.gif" width="70px" style="border-radius: 50%"> Connect with me </h1>
 
- [<img src="https://github.com/VintellX/VintellX/blob/main/resources/telegram_icon.png" width="75px">](https://t.me/Harpia_Vieillot) [<img src="https://github.com/VintellX/VintellX/blob/main/resources/github_icon.png" width="75px">](https://github.com/VintellX) [<img src="https://github.com/VintellX/VintellX/blob/main/resources/discord_logo.png" width="75px">](https://discordapp.com/users/933976831902769192) [<img src="https://github.com/VintellX/VintellX/blob/main/resources/youtube_icon.png" width="75px">](https://www.youtube.com/@VintellX)
+ [<img src="https://github.com/VintellX/VintellX/blob/main/resources/telegram_icon.png" width="75px">](https://t.me/don_owner) [<img src="https://github.com/VintellX/VintellX/blob/main/resources/github_icon.png" width="75px">](https://github.com/unknownforall1) [<img src="https://github.com/VintellX/VintellX/blob/main/resources/discord_logo.png" width="75px">](https://discordapp.com/setting) [<img src="https://github.com/VintellX/VintellX/blob/main/resources/youtube_icon.png" width="75px">](https://www.youtube.com/@d3viltech404)
 <!-- 
 [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/hr.gif"/>](https://github.com/Harpia-Vieillot)
 
