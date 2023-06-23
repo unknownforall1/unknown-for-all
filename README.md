@@ -10,7 +10,7 @@
 <h1> <img src="https://github.com/VintellX/VintellX/blob/main/resources/dragon.webp" width="70px"> About Me </h1>
 
 ```python3
-class Vinayak():
+class ViveK():
     def __init__(self):
         self.name = [' विवेक राज रॉय ', 'ViveK RaJ RoY']
         self.country = ['भारत', 'India']
